@@ -1,0 +1,13 @@
+JOHN TRAVOLTA ASSIGNMENT,
+,
+Parameter,Nilai
+Jam Kerja Normal,40
+Rate Normal/Jam,15000
+Rate Lembur,1.5 x rate normal
+,
+Input Jam Kerja,52
+Jam Normal,40
+Jam Lembur,12
+Gaji Normal,600000
+Gaji Lembur,270000
+Total Gaji,870000
